@@ -32,7 +32,6 @@ Clone this repository:(git clone https://github.com/Nardos124/smart-meal-planner
 
 screenshot of smart-meal-planar
 ![home page image](images/home.png)
-![planner page image](images/planner.png)
 
 
 
