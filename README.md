@@ -30,5 +30,6 @@ Styling: CSS-in-JS & custom components
 
 Clone this repository:(git clone https://github.com/Nardos124/smart-meal-planner.git)
 
-screenshot of smart-meal-planar[images/home.png],[images/planner.png],[images/Tracker.png],[images/RecipeList.png]
+screenshot of smart-meal-planar
+[images/home.png]
 
